@@ -10,9 +10,11 @@ build/
 *.egg-info/
 
 # Ignora arquivos locais de dados do CIFAR-100 e Intel Scenes
-data/
+# data/
 datasets/
 input/
+# cifar100/
+# intel_scenes/
 *cifar-100*
 *intel_scenes*
 *.zip
@@ -21,7 +23,7 @@ input/
 
 # Ignora os 60+ checkpoints gerados durante a Fase 1 e Fase 2
 checkpoints/
-outputs/
+# outputs/
 models/
 weights/
 *.pt
@@ -33,8 +35,8 @@ runs/
 .tensorboard/
 .history/
 
-resultados_finais_teste.xlsx
-*.png
+# resultados_finais_teste.xlsx
+# *.png
 *.jpg
 *.jpeg
 *.pdf
