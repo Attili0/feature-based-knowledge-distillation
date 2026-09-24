@@ -47,4 +47,4 @@ Com base nas limitações empíricas observadas, sugerem-se as seguintes melhori
 
 ## Autor
 
-* **Rafael Attilio Agricola** (RA: 249245\) \- Universidade Estadual de Campinas (UNICAMP)
+* **Rafael Attilio Agricola** \- Universidade Estadual de Campinas (UNICAMP)
